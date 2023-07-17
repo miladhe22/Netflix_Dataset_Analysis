@@ -1,0 +1,1 @@
+In this project, using Netflix data, an analysis has been done on this dataset. The main goal of the project is to examine the patterns and important characteristics of movies and series in the Netflix dataset.
